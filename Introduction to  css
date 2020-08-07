@@ -1,0 +1,16 @@
+WHAT IS CSS?
+CSS is "Cascading Style Sheets", a cornerstone web technology used with HTML.  It allows for very discrete, or alternatively, system-wide customization (and everywhere in between) to the look-and-feel elements of web pages.  It is a very powerful tool to tailor the look and feel of your community to your liking.  It is, however, a little more technical in that it requires that it be written like code (like html) and, if executed improperly, can ultimately affect more than intended.  (It should be used carefully.)
+
+(See the wikipedia entry for CSS for more details.)
+
+WHAT IS IT GOOD FOR?
+CSS can be used when you want fine-grained control over the appearance and behaviors of the graphical elements in your community.  Using CSS is considered web design - having experience with HTML and CSS would help greatly in understanding what is and is not in the scope of using CSS in VLab. 
+
+(What is showcased here is basic.  You can go deeper with CSS - and even expand into using Javascript to achieve even more elegant solutions to more complex problems.)
+
+HOW DO I USE IT?
+This is a good resource for all of the various CSS options: 
+
+https://www.w3schools.com/css/
+
+In the VLab User Guide, there is also a section describing how and where to inject CSS in your pages, portlets, and communities.  (need link
